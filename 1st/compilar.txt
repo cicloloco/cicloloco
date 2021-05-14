@@ -1,0 +1,8 @@
+#Compilar 1stC.c
+gcc -Wall -g 1stC.c -o bin/exe1stC
+
+#Compilar ejPrintf.c
+gcc -Wall -g ejPrintf.c -o bin/ejPrintf
+
+#Compilar sizeof.c
+gcc -Wall -g sizeof.c -o bin/sizeof
